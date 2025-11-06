@@ -43,7 +43,8 @@ return 0;
 ```
 ## Output:
 
-![Uploading image.png…]()
+<img width="505" height="213" alt="image" src="https://github.com/user-attachments/assets/2a4aca41-86e8-40ed-8597-9f25eaad8e98" />
+
 
 
 ## Result:
